@@ -6,7 +6,7 @@ without either breaking it or changing structure or how it works
 
 ## Example
 
-I have wrote a simple script to get some files and change them and then  
+I have wrote a simple script to get some files and change them and then
 finally uploading it and it is OOP but then after sometime I have found
 out sometimes the S3Storage which I upload files doesn't work correctly
 or my network fails
